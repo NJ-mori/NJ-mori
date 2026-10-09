@@ -1,2 +1,4 @@
-https://github.com/NJ-mori/NJ-mori/blob/1b27e4ce89162e01680f3b87474e62615d165fb4/_.html
+<div align="left">
+  <img src="https://raw.githubusercontent.com/NJ-mori/NJ-mori/refs/heads/main/i.png" alt="Bannière" width="80%">
+</div>
 Currently studying Computer_Science*
